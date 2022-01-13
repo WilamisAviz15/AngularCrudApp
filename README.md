@@ -1,2 +1,6 @@
-# Projeto simples feito em angular para um sistema CRUD
-  Projeto feito através do curso da Cod3r
+# Simple project done in Angular for a CRUD system
+  Project made through the Cod3r course
+
+## How to use
+Install node
+install dependency using npm i
