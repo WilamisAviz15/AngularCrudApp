@@ -3,4 +3,5 @@
 
 ## How to use
 Install node
+
 install dependency using npm i
